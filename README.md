@@ -1,4 +1,3 @@
-# CODSOFT
 # Data Science Projects
 
 ## Movies Box Office Prediction
